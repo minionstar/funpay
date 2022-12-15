@@ -125,7 +125,7 @@ export default function Index() {
             </Link>
           </div>
         </div>
-        <div className="flex text-black w-full">
+        <div className="flex text-black ml-24 w-full">
           <Image
             src="https://funpay.com/img/circles/funpay_ny2021.jpg"
             width={800}
